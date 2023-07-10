@@ -110,3 +110,32 @@ body {
   background: rgba(71, 125, 17, 0.15);
   padding: 67px 75px 0;
 }
+
+/* service section styles */
+.our-service {
+  display: flex;
+  justify-content: space-around;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  margin: 100px 185px;
+}
+
+.service {
+  padding: 65px 150px;
+  align-items: center;
+  text-align: center;
+}
+
+/* deal section styles */
+.hot-deal {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 95px 250px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+}
+
+.spical-text {
+  color: #e55473;
+}
