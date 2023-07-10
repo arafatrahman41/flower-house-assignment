@@ -139,3 +139,17 @@ body {
 .spical-text {
   color: #e55473;
 }
+
+/* social media section styles */
+.social-pic{
+  display: flex;
+  gap: 24px;
+  justify-content: space-around;
+  margin: 48px 185px;
+  align-items: center;
+}
+.social{
+  text-align: center;
+  padding: 90px 650px 30px;
+}
+
