@@ -141,15 +141,64 @@ body {
 }
 
 /* social media section styles */
-.social-pic{
+.social-pic {
   display: flex;
   gap: 24px;
   justify-content: space-around;
   margin: 48px 185px;
   align-items: center;
 }
-.social{
+.social {
   text-align: center;
   padding: 90px 650px 30px;
 }
 
+/* coupon section styles */
+.coupon {
+  text-align: center;
+  background-image: url("../images/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  margin: 50px 222px;
+  padding: 100px 500px;
+}
+
+.email {
+  padding: 18px 400px 18px 18px;
+  border: 0;
+  border-radius: 8px;
+  margin-bottom: 17px;
+}
+
+/* footer section */
+footer {
+  background: #111010;
+  padding: 150px 500px 150px 500px;
+  text-align: center;
+}
+
+.footer-title {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.copyright {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.address {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+}
