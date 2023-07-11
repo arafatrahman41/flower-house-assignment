@@ -158,15 +158,16 @@ body {
   text-align: center;
   background-image: url("../images/Rectangle\ 9.png");
   background-repeat: no-repeat;
+  background-position: center;
   border-radius: 8px;
-  margin: 50px 222px;
-  padding: 100px 55px;
+  margin: auto;  
+  padding: 250px 50px 10px;
   width: 1440px;
   height: 449px; 
 }
 
 .email {
-  padding: 18px 400px 18px 18px;
+  padding: 20px 500px 18px 20px;
   border: 0;
   border-radius: 8px;
   margin-right: 17px;
