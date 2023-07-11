@@ -160,14 +160,16 @@ body {
   background-repeat: no-repeat;
   border-radius: 8px;
   margin: 50px 222px;
-  padding: 100px 500px;
+  padding: 100px 55px;
+  width: 1440px;
+  height: 449px; 
 }
 
 .email {
   padding: 18px 400px 18px 18px;
   border: 0;
   border-radius: 8px;
-  margin-bottom: 17px;
+  margin-right: 17px;
 }
 
 /* footer section */
@@ -201,4 +203,8 @@ footer {
   color: rgba(255, 255, 255, 0.4);
   font-size: 16px;
   font-weight: 400;
+}
+
+div address a{
+  color: #cecccc;
 }
